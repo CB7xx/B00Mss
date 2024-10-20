@@ -29,7 +29,7 @@ ImageLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
 ImageLabel.BorderSizePixel = 0
 ImageLabel.Position = UDim2.new(0, 0, -3.1922152e-08, 0)
 ImageLabel.Size = UDim2.new(0, 404, 0, 239)
-ImageLabel.Image = "rbxassetid://8388713537"
+ImageLabel.Image = "rbxassetid://17869331640"
 
 TextBox.Parent = ImageLabel
 TextBox.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
